@@ -48,5 +48,7 @@ Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el arch
 
 Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
 
+### Configuración de Ubuntu
+
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
