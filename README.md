@@ -21,7 +21,7 @@ Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
 Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096):
-![]
+![VirtualBox3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX3.png)
 
 Creamos un nuevo disco duro virtual:
 ![]
