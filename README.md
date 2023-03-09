@@ -23,6 +23,11 @@ Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que
 Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096):
 
 
+Creamos un nuevo disco duro vitual, que se creará como un archivo, y que tendrá un tamaño de 25 GB
+
+Elegimos el tipo de disco duro virtual de tipo VDI(Virtual Disk Image):
+
+Le indicamos que el fichero del disco duro virtual crezca dinámicamene
 
 
 
