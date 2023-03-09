@@ -7,9 +7,25 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ## Proceso de instalación
 
-### Instalación de Virtualbox
+### Instalación de VirtualBox
 
-Descargaremos [Virtual Box](https://www.virtualbox.org/)
+Descargaremos [VirtualBox](https://www.virtualbox.org/)
+
+### Configuración de VirtualBox
+Arrancamos Virtual y hacemos click en "Nueva".
+
+![VirtualBox1](/home/neumon/Baixades/VIRTUALBOX2.png)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
