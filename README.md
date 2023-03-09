@@ -12,15 +12,15 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 ### Configuración de VirtualBox
-Arrancamos Virtual y hacemos click en "Nueva".
+Arrancamos Virtual y hacemos click en "Nueva":
 
 ![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
 
-Escribimos el nombre de la máquina vitual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu 64-bit".
+Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu (64-bit)":
 
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
-
+Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096):
 
 
 
