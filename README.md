@@ -1,4 +1,5 @@
-# INSTALACIÓN UBUNTU
+# INSTALACIÓN DE UBUNTU
+
 ## ¿Que es Ubuntu?
 
 Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye principalmente software libre y de código abierto.
@@ -12,6 +13,7 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 ### Configuración de VirtualBox
+
 Arrancamos Virtual y hacemos click en "Nueva":
 
 ![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
