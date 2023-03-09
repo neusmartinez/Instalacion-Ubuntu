@@ -42,10 +42,10 @@ Nos descargamos previamente el archivo ISO de la distribución Linux que queramo
 El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "Almacenamiento":
 
 
-Hacemos click en "Vacio" dentro del árbol "Controlador IDE" 
+Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima"
 
 
-
+Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
 
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
