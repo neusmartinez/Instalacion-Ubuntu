@@ -17,6 +17,8 @@ Arrancamos Virtual y hacemos click en "Nueva".
 ![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
 
 
+Escribimos el nombre de la máquina vitual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu 64-bit".
+
 
 
 
