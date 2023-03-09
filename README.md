@@ -21,16 +21,23 @@ Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
 Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096):
+![]
+
+Creamos un nuevo disco duro virtual:
+![]
+
+Elegimos el tipo de disco duro virtual de tipo VDI (Virtual Disk Image):
+![]
+
+Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio:
+![]
+
+Configuramos el tamaño del disco duro virtual a 25 GB,  ya que es el tamaño recomendado en la instalacióń de Ubuntu 22.04:
 
 
-Creamos un nuevo disco duro vitual, que se creará como un archivo, y que tendrá un tamaño de 25 GB
+Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtual del sistema operativo:
 
-Elegimos el tipo de disco duro virtual de tipo VDI(Virtual Disk Image):
-
-Le indicamos que el fichero del disco duro virtual crezca dinámicamene
-
-
-
+Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/)
 
 
 
