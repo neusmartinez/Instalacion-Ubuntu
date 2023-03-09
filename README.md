@@ -37,7 +37,7 @@ Configuramos el tamaño del disco duro virtual a 25 GB,  ya que es el tamaño re
 
 Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtual del sistema operativo:
 
-Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/)
+Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
 
 
 
