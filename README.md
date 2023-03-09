@@ -39,6 +39,8 @@ Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtua
 
 Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
 
+El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la 
+
 
 
 
