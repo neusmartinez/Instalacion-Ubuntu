@@ -14,7 +14,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ### Configuración de VirtualBox
 Arrancamos Virtual y hacemos click en "Nueva".
 
-![VirtualBox1](/home/neumon/Baixades/VIRTUALBOX2.png)
+![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
 
 
 
