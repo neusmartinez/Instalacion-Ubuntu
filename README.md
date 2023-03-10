@@ -88,7 +88,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![Ubuntu6](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU6.png)
 
 
-7.
+7. Elegimos el lugar donde estamos, en este caso Valencia, España:
 ![Ubuntu7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU7.png)
 
 
