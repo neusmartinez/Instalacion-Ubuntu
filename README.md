@@ -64,35 +64,35 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 ### Configuración de Ubuntu
 
-Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
+1. Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
 ![Ubuntu1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU1.png)
 
 
-Elegimos el idioma y hacemos click en "Instalar Ubuntu":
+2. Elegimos el idioma y hacemos click en "Instalar Ubuntu":
 ![Ubuntu2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU2.png)
 
 
-Elegimos la distribución de teclado:
+3. Elegimos la distribución de teclado:
 ![Ubuntu3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU3.png)
 
 
-Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
+4. Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
 
 
-
+5. 
 ![Ubuntu5](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU5.png)
 
 
-
+6. 
 ![Ubuntu6](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU6.png)
 
 
-
+7.
 ![Ubuntu7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU7.png)
 
 
-
+8.
 ![Ubuntu8](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU8.png)
 
 
