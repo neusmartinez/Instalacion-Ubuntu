@@ -67,5 +67,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 ### Configuración de Ubuntu
 
+Vemos la pantalla de Grub y elegimos la opción "Try 
+
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
