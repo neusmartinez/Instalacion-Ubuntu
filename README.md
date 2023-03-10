@@ -49,16 +49,16 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 
 9. Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
-![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_9.png)
+![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX9.png)
 
 10. El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "Almacenamiento":
-![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX__10.png)
+![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_10.png)
 
 11. Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima"
-![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX__11.png)
+![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_11.png)
 
 12. Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
-![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX__12.png)
+![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_12.png)
 
 13. Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
 ![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX__10.png)
@@ -68,6 +68,8 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ### Configuración de Ubuntu
 
 Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
+![Ubuntu1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU1.png)
+
 
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
