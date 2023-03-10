@@ -51,12 +51,14 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 9. Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
 ![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX9.png)
 
+
 10. El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "Almacenamiento" y hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima":
 ![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
 
 
 11. Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
 ![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX11.png)
+
 
 12. Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
 ![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX12.png)
@@ -68,14 +70,32 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
 ![Ubuntu1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU1.png)
 
+
 Elegimos el idioma y hacemos click en "Instalar Ubuntu":
 ![Ubuntu2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU2.png)
+
 
 Elegimos la distribución de teclado:
 ![Ubuntu3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU3.png)
 
-Elegimos el tipo de instalación y si actualizaremos o instalaremos
+
+Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
+
+
+![Ubuntu5](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU5.png)
+
+
+
+![Ubuntu6](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU6.png)
+
+
+
+![Ubuntu7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU7.png)
+
+
+
+![Ubuntu8](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU8.png)
 
 
 
