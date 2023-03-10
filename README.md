@@ -80,11 +80,11 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
 
 
-5. Elegimos borrar el disco duro virtual y instalar Ubuntu:
+5. Hacemos click en "Borrar el disco duro virtual y instalar Ubuntu":
 ![Ubuntu5](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU5.png)
 
 
-6. 
+6. Entendemos las consecuencias de hacer click en "Borrar el disco duro virtual y instalar Ubuntu":
 ![Ubuntu6](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU6.png)
 
 
