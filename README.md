@@ -92,7 +92,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![Ubuntu7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU7.png)
 
 
-8.
+8. Escribimos nuestro nombre, un nombre para el ordenador, un nombre de usuario y una contraseña. Además, hacemos click en "Requerir mi contraseña para iniciar sesión":
 ![Ubuntu8](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU8.png)
 
 
