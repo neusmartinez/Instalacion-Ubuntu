@@ -76,8 +76,10 @@ Elegimos el idioma y hacemos click en "Instalar Ubuntu":
 Elegimos la distribución de teclado:
 ![Ubuntu3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU3.png)
 
-Elegimos el 
+Elegimos el tipo de instalación y si actualizaremos o instalaremos
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
+
+
 
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
