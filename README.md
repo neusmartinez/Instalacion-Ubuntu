@@ -18,7 +18,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
 
 
-2. Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu (64-bit)":
+2. Escribimos el nombre de la máquina virtual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu (64-bit)":
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
 
@@ -46,7 +46,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox8](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX8.png)
 
 
-9. Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
+9. Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04:
 ![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX9.png)
 
 
@@ -58,7 +58,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX11.png)
 
 
-12. Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
+12. Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar:
 ![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX12.png)
 
 
@@ -80,7 +80,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
 
 
-5. 
+5. Elegimos borrar el disco duro virtual y instalar Ubuntu:
 ![Ubuntu5](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU5.png)
 
 
