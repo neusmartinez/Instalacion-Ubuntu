@@ -58,7 +58,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX11.png)
 
 12. Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
-![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_12.png)
+![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX12.png)
 
 13. Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
 ![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX__10.png)
