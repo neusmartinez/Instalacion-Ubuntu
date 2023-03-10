@@ -71,13 +71,13 @@ Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le da
 ![Ubuntu1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU1.png)
 
 Elegimos el idioma y hacemos click en "Instalar Ubuntu":
-
+![Ubuntu2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU2.png)
 
 Elegimos la distribución de teclado:
-
+![Ubuntu3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU3.png)
 
 Elegimos el 
-
+![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
 
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
