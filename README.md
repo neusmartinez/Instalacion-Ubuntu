@@ -52,10 +52,10 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX9.png)
 
 10. El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "Almacenamiento":
-![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
+![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
 
 11. Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima"
-![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_11.png)
+![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX11.png)
 
 12. Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
 ![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_12.png)
