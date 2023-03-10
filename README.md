@@ -14,44 +14,56 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 ### Configuración de VirtualBox
 
-Arrancamos Virtual y hacemos click en "Nueva":
+1. Arrancamos Virtual y hacemos click en "Nueva":
 
 ![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
 
-Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu (64-bit)":
+
+2. Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu (64-bit)":
 
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
-Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096):
+
+3. Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096):
 ![VirtualBox3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX3.png)
 
-Creamos un nuevo disco duro virtual:
+
+4. Creamos un nuevo disco duro virtual:
 ![VirtualBox4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX4.png)
 
-Elegimos el tipo de disco duro virtual de tipo VDI (Virtual Disk Image):
+
+5. Elegimos el tipo de disco duro virtual de tipo VDI (Virtual Disk Image):
 ![VirtualBox5](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX5.png)
 
-Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio:
+
+6. Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio:
 ![VirtualBox6](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX6.png)
 
-Configuramos el tamaño del disco duro virtual a 25 GB,  ya que es el tamaño recomendado en la instalacióń de Ubuntu 22.04:
+
+7. Configuramos el tamaño del disco duro virtual a 25 GB,  ya que es el tamaño recomendado en la instalacióń de Ubuntu 22.04:
 ![VirtualBox7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX7.png)
 
-Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtual del sistema operativo:
+
+8. Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtual del sistema operativo:
 ![VirtualBox8](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX8.png)
 
-Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
 
-
-El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "Almacenamiento":
+9. Nos descargamos previamente el archivo ISO de la distribución Linux que queramos. En nuestro caso hemos elegido la distribución [Ubuntu](https://ubuntu.com/), en su versión 22.04.
 ![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX_9.png)
 
-Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima"
-![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
+10. El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "Almacenamiento":
+![VirtualBox9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
 
-Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
+11. Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima"
+![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX11.png)
 
-Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
+12. Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
+![VirtualBox11](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX12.png)
+
+13. Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
+![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
+
+
 
 ### Configuración de Ubuntu
 
