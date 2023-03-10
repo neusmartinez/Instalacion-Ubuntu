@@ -89,7 +89,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 
 
 7.
-![Ubuntu7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU7.png)
+![Ubuntu7](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU7.jng)
 
 
 8.
