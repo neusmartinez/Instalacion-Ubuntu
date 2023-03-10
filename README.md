@@ -96,6 +96,9 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![Ubuntu8](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU8.png)
 
 
+9. Por último, esperamos a que se instale Ubuntu:
+![Ubuntu9](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU9.png)
+
 
 ## Referencias
 "Ubuntu", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 Marzo, 2023). 
