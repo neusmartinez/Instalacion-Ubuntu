@@ -49,6 +49,8 @@ El siguiente paso es "montar" la ISO en el lector visual de la máquina virtual.
 Hacemos click en "Vacio" dentro del árbol "Controlador IDE"  y elegimos el archivo ISO desde el icono de "Unidad Óptima"
 ![VirtualBox10](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX10.png)
 
+Antes de arrancar configuramos la memoria de la tarjeta de video al máximo posible dentro de "Configuración" -> "Pantalla".
+
 Por último, le damos a "Iniciar" en la máquina virtual y vemos como empieza a arrancar.
 
 ### Configuración de Ubuntu
