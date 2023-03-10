@@ -22,7 +22,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
 
-3. Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096Mb):
+3. Configuramos el tamaño de memoria para la máquina virtual. Para Ubuntu 22.04 se recomiendan 4GB (4096MB):
 ![VirtualBox3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX3.png)
 
 
