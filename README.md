@@ -15,12 +15,10 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ### Configuración de VirtualBox
 
 1. Arrancamos Virtual y hacemos click en "Nueva":
-
 ![VirtualBox1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX1.png)
 
 
 2. Escribimos el nombre de la máquina vi4tual, en nuestro caso "Ubuntu". Vemos que se selecciona automáticamente el tipo de sistema a Linux y la version a "Ubuntu (64-bit)":
-
 ![VirtualBox2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX2.png)
 
 
@@ -64,7 +62,6 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![VirtualBox12](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX12.png)
 
 
-
 ### Configuración de Ubuntu
 
 Vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
@@ -81,6 +78,7 @@ Elegimos la distribución de teclado:
 
 Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
+
 
 
 ![Ubuntu5](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU5.png)
