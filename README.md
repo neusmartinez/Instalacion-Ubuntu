@@ -76,7 +76,7 @@ Descargaremos [VirtualBox](https://www.virtualbox.org/)
 ![Ubuntu3](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU3.png)
 
 
-4. Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
+4. Elegimos el tipo de instalación, si actualizaremos o instalaremos software de terceros y la opción de instalar programas de terceros:
 ![Ubuntu4](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/UBUNTU4.png)
 
 
